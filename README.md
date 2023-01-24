@@ -1,2 +1,2 @@
-# CURSO-ALURA
-Repositório onde armazenarei minha tragetória no aprendizado da programação na Escola Alura
+# PONG EM JAVASCRIPT
+Repositório onde armazenei minha primeira experiência no aprendizado da programação dentro da Escola Alura, utilizando a linguagem JavaScript.
